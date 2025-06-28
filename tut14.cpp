@@ -2,7 +2,7 @@
 using namespace std;
 
 void p();
-int sum(int, int); // function prototyping
+int sum(int, int); // function prototyping for refrenncing the the location for the int_sum
 int main()
 {
     int num1, num2; // acutal parameter
