@@ -38,4 +38,4 @@ int main()
 }
 
 // learnedd about inline function and Default arguments
-// constant argument which made by const keywork which doest changed value by user or program for untouched to change
+// constant argument used because const prevents modification of the variable inside the function.
