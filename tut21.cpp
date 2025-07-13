@@ -40,4 +40,4 @@ int main()
 // a,b,c are private for accessing the private things are accessible by only that class function
 // a1,b1,c1 access private data  which have public acceess
 //.d,.e are the publically accesss .a ,.b, .c are not access by .function
-// it's all abut classes ,public and Private acceess modifiers in C++
+// it's all about classes ,public and Private acceess modifiers in C++
